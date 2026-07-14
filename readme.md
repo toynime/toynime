@@ -98,7 +98,6 @@ Built using HTML, CSS and JavaScript.
 
 - Gain industry experience through an internship
 - Improve my backend development skills
-- Learn Laravel in depth
 - Build more complete web applications
 - Continue creating game development projects with Unity
 
