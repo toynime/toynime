@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-Currently looking for a <b>Summer Internship (July 2026)</b> in Web Development.
+Currently looking for a <b>Summer Internship (2026)</b> in Web Development.
 </p>
 
 ---
@@ -16,7 +16,7 @@ I'm a **first-year Full Stack Web Development student** at the **BTS of Marrakec
 
 Outside of my coursework, I enjoy creating **small games and interactive experiences** as passion projects. I believe game development is one of the best ways to improve problem-solving, programming, and creativity.
 
-I'm currently looking for a **one-month summer internship** where I can gain professional experience, contribute to real projects, and continue growing as a developer.
+I'm currently looking for a **summer internship** where I can gain professional experience, contribute to real projects, and continue growing as a developer.
 
 ---
 
