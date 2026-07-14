@@ -126,7 +126,7 @@ Built using HTML, CSS and JavaScript.
 📧 **anasaitnn@gmail.com**
 
 💼 LinkedIn  
-https://www.linkedin.com/in/anas-ait-mouddar-01825b299/
+https://www.linkedin.com/in/anasaitmouddar/
 
 🐙 GitHub  
 https://github.com/toynime
