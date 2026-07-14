@@ -1,85 +1,110 @@
-<h1 align="center">Hi 👋, I'm Anas Ait Mouddar</h1>
-
-
-<h3 align="center">
-Full Stack Web Development Student • BTS Marrakech 🇲🇦
-</h3>
+<h1 align="center">Hi there! 👋 I'm Anas Ait Mouddar</h1>
 
 <p align="center">
-🎯 Looking for a Summer Internship (Stage d'été)
+💻 Full Stack Web Development Student • 🎮 Aspiring Game Developer
+</p>
+
+<p align="center">
+Currently looking for a <b>Summer Internship (July 2026)</b> in Web Development.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Web Development student** currently completing my **first year of BTS** in Marrakech, Morocco.
+I'm a **first-year Full Stack Web Development student** at the **BTS of Marrakech**, passionate about software development and always looking for opportunities to learn by building.
 
-I'm passionate about building modern web applications, continuously improving my programming skills, and learning new technologies through personal projects.
+Outside of my coursework, I enjoy creating **small games and interactive experiences** as passion projects. I believe game development is one of the best ways to improve problem-solving, programming, and creativity.
 
-I'm currently looking for a **summer internship** where I can contribute, gain real-world experience, and grow as a web developer.
-
----
-
-## 🚀 What I'm Learning
-
-- Frontend Development
-  - HTML5
-  - CSS3
-  - JavaScript (ES6+)
-  - Responsive Design
-  - Bootstrap
-
-- Backend Development
-  - PHP
-  - Laravel
-  - REST APIs
-
-- Databases
-  - MySQL
-
-- Tools
-  - Git
-  - GitHub
-  - VS Code
-  - Linux
+I'm currently looking for a **one-month summer internship** where I can gain professional experience, contribute to real projects, and continue growing as a developer.
 
 ---
 
-## 📚 Currently Working On
+## 🚀 Tech Stack
 
-- Personal web projects
-- Improving my Laravel skills
-- Building responsive websites
-- Learning modern JavaScript
-- Strengthening backend development
+### Languages
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=js,php,python,c,mysql,html,css" />
+</p>
 
-## 💼 Looking For
+### Tools
 
-I'm currently searching for a **Summer Internship (Stage d'été)** in:
-
-- Full Stack Development
-- Backend Development
-- Frontend Development
-- Web Application Development
-
-I'm motivated, curious, and always eager to learn from experienced developers.
-
----
-
-## 🛠 Tech Stack
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,git,github,vscode,linux,bootstrap" />
-
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,unity" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 📚 Currently Learning
+
+- Full Stack Web Development
+- PHP
+- JavaScript
+- Responsive Web Design
+- SQL & MySQL
+- Software Engineering Fundamentals
+- Version Control with Git & GitHub
+
+---
+
+## 🎮 Passion Projects
+
+Although my studies focus on web development, I also enjoy experimenting with **game development**.
+
+Some of the personal projects I've worked on include:
+
+🎴 **Ronda Card Game**
+
+- Browser-based implementation of the traditional Moroccan card game
+- Built using HTML, CSS and JavaScript
+
+🔫 **Unity Shooter Prototype**
+
+- Small Unity prototype created to learn gameplay programming
+- Focused on player movement, shooting mechanics and game logic
+
+I love exploring new ideas and learning through hands-on projects.
+
+---
+
+## 💼 Academic Projects
+
+### ✅ Todo List
+
+A responsive task management application featuring:
+
+- Add, edit and delete tasks
+- Mark tasks as completed
+- Responsive interface
+- HTML, CSS & JavaScript
+
+---
+
+### 🧮 Calculator
+
+A responsive web calculator implementing:
+
+- Addition
+- Subtraction
+- Multiplication
+- Division
+
+Built using HTML, CSS and JavaScript.
+
+---
+
+## 🌱 Goals for 2026
+
+- Gain industry experience through an internship
+- Improve my backend development skills
+- Learn Laravel in depth
+- Build more complete web applications
+- Continue creating game development projects with Unity
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
 
@@ -89,13 +114,24 @@ I'm motivated, curious, and always eager to learn from experienced developers.
 
 </p>
 
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=toynime&theme=tokyonight&hide_border=true"/>
+</p>
+
 ---
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/anas-ait-mouddar-01825b299/
-- 📧 Email: *(add your email here)*
+📍 Marrakech, Morocco
+
+📧 **anasaitnn@gmail.com**
+
+💼 LinkedIn  
+https://www.linkedin.com/in/anas-ait-mouddar-01825b299/
+
+🐙 GitHub  
+https://github.com/toynime
 
 ---
 
-> *"Every project is an opportunity to learn something new."*
+> *"Always learning. Always building."*
