@@ -79,7 +79,6 @@ A responsive task management application featuring:
 - Responsive interface
 - HTML, CSS & JavaScript
 
----
 
 ### 🧮 Calculator
 
